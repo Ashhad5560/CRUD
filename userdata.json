@@ -1,0 +1,70 @@
+{
+    "status": "good work",
+    "user": [
+        {
+            "id": 1,
+            "first_name": "Ted",
+            "last_name": "Fochs",
+            "email": "tfochs0@cnet.com"
+        },
+        {
+            "id": 2,
+            "first_name": "Hanan",
+            "last_name": "O'Howbane",
+            "email": "hohowbane1@sun.com"
+        },
+        {
+            "id": 3,
+            "first_name": "Glynda",
+            "last_name": "Postle",
+            "email": "gpostle2@ebay.co.uk"
+        },
+        {
+            "id": 4,
+            "first_name": "Ofelia",
+            "last_name": "Ranyard",
+            "email": "oranyard3@opera.com"
+        },
+        {
+            "id": 5,
+            "first_name": "Ethel",
+            "last_name": "Cogman",
+            "email": "ecogman4@devhub.com"
+        },
+        {
+            "id": 6,
+            "first_name": "Mannie",
+            "last_name": "Surgeon",
+            "email": "msurgeon5@cnet.com"
+        },
+        {
+            "id": 7,
+            "first_name": "Shawn",
+            "last_name": "Rattrie",
+            "email": "srattrie6@china.com.cn"
+        },
+        {
+            "id": 8,
+            "first_name": "Marina",
+            "last_name": "Calven",
+            "email": "mcalven7@google.cn"
+        },
+        {
+            "id": 9,
+            "first_name": "Anders",
+            "last_name": "Phipard-Shears",
+            "email": "aphipardshears8@huffingtonpost.com"
+        },
+        {
+            "id": 10,
+            "first_name": "Arch",
+            "last_name": "Wickes",
+            "email": "awickes9@nymag.com"
+        },
+        {
+            "first_name": "ashhad ",
+            "last_name": "khan",
+            "email": "srattrie6@china.com.cn"
+        }
+    ]
+}
